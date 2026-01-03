@@ -1,7 +1,7 @@
-package;
+package hxkeytype;
 
-import KeyboardWinCpp.Keyboard;
-import VirtualKeyCodes.VKey;
+import hxkeytype.KeyboardWinCpp.Keyboard;
+import hxkeytype.VirtualKeyCodes.VKey;
 
 class KeyProcessor
 {

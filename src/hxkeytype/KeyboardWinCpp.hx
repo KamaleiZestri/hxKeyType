@@ -1,4 +1,4 @@
-package;
+package hxkeytype;
 
 @:cppFileCode('
     #include <windows.h>

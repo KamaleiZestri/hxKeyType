@@ -1,6 +1,6 @@
 package;
 
-import KeyProcessor;
+import hxkeytype.KeyProcessor;
 
 class Test
 {

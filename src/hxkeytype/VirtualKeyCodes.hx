@@ -1,4 +1,4 @@
-package;
+package hxkeytype;
 
 // https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
 enum abstract VKey(Int)
