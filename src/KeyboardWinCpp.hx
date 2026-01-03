@@ -1,10 +1,8 @@
 package;
 
 @:cppFileCode('
-#ifdef NEKO_WINDOWS
     #include <windows.h>
     #include <winuser.h>
-#endif
 ')
 class Keyboard
 {
