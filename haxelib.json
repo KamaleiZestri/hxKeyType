@@ -1,0 +1,12 @@
+{
+  "name": "hxKeyType",
+  "url": "https://github.com/KamaleiZestri/hxKeyType",
+  "license": "MIT",
+  "tags": ["keyboard"],
+  "description": "Simulate keyboard presses",
+  "version": "0.0.1",
+  "classPath": "src",
+  "releasenote": "Initial",
+  "contributors": ["KamaleiZestri"],
+  "dependencies": {}
+}
